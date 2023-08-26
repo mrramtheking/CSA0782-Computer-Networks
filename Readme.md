@@ -13,7 +13,7 @@
 
 **3.Star Topology**
 
-![3 Star Topology](https://github.com/mrramtheking/CSA0782-Computer-Networks/assets/62879218/3e60e64e-1e76-4ac5-a5b6-fba717f97a7b)
+![3 Star Topology](https://github.com/mrramtheking/CSA0782-Computer-Networks/assets/62879218/3e60e64e-1e76-4ac5-a5b6-fba717f97a7b)e
 
 **4.Ring Topology**
 
