@@ -42,3 +42,7 @@
 **10.Making Computer Lab**
 
 ![10 Making Computer Lab](https://github.com/mrramtheking/CSA0782-Computer-Networks/assets/62879218/da4c3518-f25a-4cba-af48-eb81d5c0ac6b)
+
+**11.Configuration of Simple Static Routing using Two Routers**
+
+![11 Configuration of Simple Static Routing using Two Routers](https://github.com/mrramtheking/CSA0782-Computer-Networks/assets/62879218/7e01e38f-3957-4cb3-bfc6-bdc968e21451)
