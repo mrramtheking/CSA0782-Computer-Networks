@@ -48,7 +48,9 @@
 ![11 Configuration of Simple Static Routing using Two Routers](https://github.com/mrramtheking/CSA0782-Computer-Networks/assets/62879218/7e01e38f-3957-4cb3-bfc6-bdc968e21451)
 
 **12. Design the Functionalities and Exploration of TCP**
+
 **13. Design the network model for Subnetting – Class C Addressing**
+
 **14. Simulating X, Y, Z Company Network Design and simulate**
 
 **15. Configuration of DHCP (dynamic host configuration protocol)**
@@ -56,9 +58,13 @@
 ![15 Configuration of DHCP (dynamic host configuration protocol)](https://github.com/mrramtheking/CSA0782-Computer-Networks/assets/62879218/4be96cdf-200e-4997-b593-ac08f9180eb5)
 
 **16. Configuration of firewall**
+
 **17. Make a Computer Lab to transfer a message from one node to another to design and simulate**
+
 **18. Simulate a Multimedia Network**
+
 **19. IoT based smart home applications**
+
 
 ![19 IOT Based Smart home applications](https://github.com/mrramtheking/CSA0782-Computer-Networks/assets/62879218/89eec3fc-8d3a-4db2-a09e-8df1e8187c79)
 
