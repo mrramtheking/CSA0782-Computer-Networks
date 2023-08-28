@@ -57,11 +57,15 @@
 
 **14. Simulating X, Y, Z Company Network Design and simulate**
 
+![14 Simulating X, Y, Z Company Network Design and simulate](https://github.com/mrramtheking/CSA0782-Computer-Networks/assets/62879218/c2ed2d11-a77f-4beb-bcd6-4db9c54662c9)
+
 **15. Configuration of DHCP (dynamic host configuration protocol)**
 
 ![15 Configuration of DHCP (dynamic host configuration protocol)](https://github.com/mrramtheking/CSA0782-Computer-Networks/assets/62879218/4be96cdf-200e-4997-b593-ac08f9180eb5)
 
 **16. Configuration of firewall**
+
+![16 Configuration of firewall](https://github.com/mrramtheking/CSA0782-Computer-Networks/assets/62879218/a849b554-b277-4342-b289-e9429dbe07b8)
 
 **17. Make a Computer Lab to transfer a message from one node to another to design and simulate**
 
