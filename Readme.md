@@ -49,7 +49,11 @@
 
 **12. Design the Functionalities and Exploration of TCP**
 
+![12 Design the Functionalities and Exploration of TCP](https://github.com/mrramtheking/CSA0782-Computer-Networks/assets/62879218/e6dbb4b0-c25b-46f5-8156-a202e5800674)
+
 **13. Design the network model for Subnetting – Class C Addressing**
+
+![13 Design the network model for Subnetting – Class C Addressing](https://github.com/mrramtheking/CSA0782-Computer-Networks/assets/62879218/07631ebd-2d03-4aea-bef1-bcddceeb7388)
 
 **14. Simulating X, Y, Z Company Network Design and simulate**
 
@@ -62,6 +66,8 @@
 **17. Make a Computer Lab to transfer a message from one node to another to design and simulate**
 
 **18. Simulate a Multimedia Network**
+
+![18 Simulate a Multimedia Network](https://github.com/mrramtheking/CSA0782-Computer-Networks/assets/62879218/ff6c0757-3c3d-4e9c-8d7d-6460d3f4dc05)
 
 **19. IoT based smart home applications**
 
@@ -77,3 +83,5 @@
 ![21 Implementation of IOT devices in networking](https://github.com/mrramtheking/CSA0782-Computer-Networks/assets/62879218/2587e33b-94b8-4d53-8832-5ec2f4ce6a3a)
 
 **22. IoT based AAA Local and Server based authentication configuration**
+
+![22 IoT based AAA Local and Server based authentication configuration](https://github.com/mrramtheking/CSA0782-Computer-Networks/assets/62879218/36f1f62c-34e4-4ac4-a648-57a0f46d7ddb)
