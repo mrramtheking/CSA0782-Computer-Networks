@@ -65,6 +65,8 @@
 
 **17. Make a Computer Lab to transfer a message from one node to another to design and simulate**
 
+![17 Make a Computer Lab to transfer a message from one node to another](https://github.com/mrramtheking/CSA0782-Computer-Networks/assets/62879218/7ab51061-b1df-47c8-9eae-e97f235d8031)
+
 **18. Simulate a Multimedia Network**
 
 ![18 Simulate a Multimedia Network](https://github.com/mrramtheking/CSA0782-Computer-Networks/assets/62879218/ff6c0757-3c3d-4e9c-8d7d-6460d3f4dc05)
