@@ -91,3 +91,28 @@
 **22. IoT based AAA Local and Server based authentication configuration**
 
 ![22 IoT based AAA Local and Server based authentication configuration](https://github.com/mrramtheking/CSA0782-Computer-Networks/assets/62879218/36f1f62c-34e4-4ac4-a648-57a0f46d7ddb)
+
+**23.Transport layer protocol header analysis using Wire shark- TCP**
+
+![23 Transport layer protocol header analysis using Wire shark- TCP](https://github.com/mrramtheking/CSA0782-Computer-Networks/assets/62879218/d1a6c1e9-2dd5-4030-bb12-dce5988d96dc)
+
+**23.Transport layer protocol header analysis using Wire shark-UDP**
+
+![23 Transport layer protocol header analysis using Wire shark-UDP](https://github.com/mrramtheking/CSA0782-Computer-Networks/assets/62879218/5483760b-daa1-403e-9df4-2ad4828f990c)
+
+**24.Network layer protocol header analysis using Wire shark – SMTP**
+
+![24 Network layer protocol header analysis using Wire shark – SMTP](https://github.com/mrramtheking/CSA0782-Computer-Networks/assets/62879218/6ff19af5-8de6-43d4-918e-455a94901353)
+
+**24.Network layer protocol header analysis using Wire shark –ICMP**
+
+![24 Network layer protocol header analysis using Wire shark –ICMP](https://github.com/mrramtheking/CSA0782-Computer-Networks/assets/62879218/9f1035c1-dcee-454e-a5fd-fa5e16d231d3)
+
+
+**25.Network layer protocol header analysis using Wire shark – ARP**
+
+![25 Network layer protocol header analysis using Wire shark – ARP](https://github.com/mrramtheking/CSA0782-Computer-Networks/assets/62879218/395e59d7-39b9-481b-9668-67ac10e70ae1)
+
+**25.Network layer protocol header analysis using Wire shark HTTP**
+
+![25 Network layer protocol header analysis using Wire shark HTTP](https://github.com/mrramtheking/CSA0782-Computer-Networks/assets/62879218/cd535284-c957-4100-9ca7-a3e8c68d181c)
