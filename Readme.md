@@ -116,3 +116,11 @@
 **25.Network layer protocol header analysis using Wire shark HTTP**
 
 ![25 Network layer protocol header analysis using Wire shark HTTP](https://github.com/mrramtheking/CSA0782-Computer-Networks/assets/62879218/cd535284-c957-4100-9ca7-a3e8c68d181c)
+
+**26.Implementation of date and time display from client to server using TCP sockets in java**
+
+![26 Implementation of date and time display from client to server using TCP sockets in java](https://github.com/mrramtheking/CSA0782-Computer-Networks/assets/62879218/37470b84-9c99-433a-b2a5-d4cdb616dd18)
+
+**32.Implementation of Bit stuffing mechanism using C**
+
+![32 Implementation of Bit stuffing mechanism using C](https://github.com/mrramtheking/CSA0782-Computer-Networks/assets/62879218/f041e456-3084-46ce-8184-628009a7d395)
